@@ -15,7 +15,7 @@ Developer Experience CLI — enforce Golden Path conventions across all engineer
 Install directly from the Git repository — no need to publish to PyPI:
  
 ```bash
-uv tool install git+https://github.com/your-org/devex-cli
+uv tool install git+https://github.com/Rosten98/devex-cli
 ```
  
 Verify the installation:
